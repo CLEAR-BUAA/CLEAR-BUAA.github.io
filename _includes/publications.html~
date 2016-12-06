@@ -1,0 +1,305 @@
+<h3>
+	<a name='publications'></a> Publications
+</h3>
+
+<h4>
+	<a name='report'></a> Technique Reports
+</h4>
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Attentive Contexts for Object Detection</strong><br />
+       Jianan Li*, <strong>Yunchao Wei*</strong>, Xiaodan Liang, Jian Dong, Tingfa Xu, Jiashi Feng, Shuicheng Yan<br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[arxiv]</a>
+    </p>
+  </div>
+</div>
+
+<h4>
+	<a name='2016'></a> 2016
+</h4>
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation</strong><br />
+       <strong>Yunchao Wei</strong>, Xiaodan Liang, Yunpeng Chen, Xiaohui Shen, Ming-Ming Cheng, Jiashi Feng, Yao Zhao, Shuicheng Yan<br />
+       IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Learning to Segment Human by Watching YouTube</strong><br />
+       Xiaodan Liang, <strong>Yunchao Wei</strong>, Yunpeng Chen, Xiaohui Shen, Jianchao Yang, Liang Lin, Shuicheng Yan<br />
+       IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Reversible Recursive Instance-level Object Segmentation</strong><br />
+       Xiaodan Liang, <strong>Yunchao Wei</strong>, Xiaohui Shen, Zequn Jie, Jiashi Feng, Liang Lin, Shuicheng Yan<br />
+       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>HCP: A Flexible CNN Framework for Multi-label Image Classification</strong><br />
+       <strong>Yunchao Wei</strong>, Wei Xia, Min Lin, Junshi Huang, Bingbing Ni, Jian Dong, Yao Zhao, Shuicheng Yan<br />
+       IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Cross-Modal Retrieval With CNN Visual Features: A New Baseline</strong><br />
+       <strong>Yunchao Wei</strong>, Yao Zhao, Canyi Lu, Shikui Wei, Luoqi Liu, Zhenfeng Zhu, Shuicheng Yan<br />
+       IEEE Transactions on Cybernetics (TCYB), 2016 <br />
+      <a href="http://arxiv.org/abs/1310.1531">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Learning to segment with image-level annotations</strong><br />
+       <strong>Yunchao Wei</strong>, Xiaodan Liang, Yunpeng Chen, Zequn Jie, Yanhui Xiao, Yao Zhao, Shuicheng Yan<br />
+       Pattern Recognition (PR), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Modality-Dependent Cross-Media Retrieval</strong><br />
+       <strong>Yunchao Wei</strong>, Yao Zhao, Zhenfeng Zhu, Shikui Wei, Yanhui Xiao, Jiashi Feng, Shuicheng Yan<br />
+       ACM Transactions on Intelligent Systems and Technology (TIST), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Instance-Aware Hashing for Multi-Label Image Retrieval</strong><br />
+       Hanjiang Lai, Pan Yan, Xiangbo Shu, <strong>Yunchao Wei</strong>, Shuicheng Yan<br />
+       IEEE Transactions on Image Processing (TIP), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Deep Learning with S-Shaped Rectified Linear Activation Units</strong><br />
+       Xiaojie Jin, Chunyan Xu, Jiashi Feng, <strong>Yunchao Wei</strong>, Junjun Xiong, Shuicheng Yan<br />
+       Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>3D video super-resolution using fully convolutional neural networks</strong><br />
+       Yanchun Xie, Jimin Xiao, Tammam Tillo, <strong>Yunchao Wei</strong>, Yao Zhao<br />
+       IEEE International Conference on Multimedia and Expo (ICME), 2016 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+
+<h4>
+	<a name='2015'></a> 2015
+</h4>
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Kernel Reconstruction ICA for Sparse Representation</strong><br />
+       Yanhui Xiao, Zhenfeng Zhu, Yao Zhao, <strong>Yunchao Wei</strong>, Shikui Wei <br />
+       IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2015 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection</strong><br />
+       Xiaodan Liang, Si Liu, <strong>Yunchao Wei</strong>, Luoqi Liu, Liang Lin, Shuicheng Yan <br />
+       IEEE International Conference on Computer Vision (ICCV), 2015 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Heterogeneous data alignment for cross-media computing</strong><br />
+       	Shikui Wei, <strong>Yunchao Wei</strong>, Lei Zhang, Zhenfeng Zhu, Yao Zhao <br />
+       International Conference on Internet Multimedia Computing and Service  (ICIMCS), 2015 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<h4>
+	<a name='2014'></a> 2014
+</h4>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Heterogeneous data alignment for cross-media computing</strong><br />
+       Yanhui Xiao, Zhenfeng Zhu, Yao Zhao, <strong>Yunchao Wei</strong>, Shikui Wei, Xuelong Li <br />
+       IEEE Transactions on Cybernetics (TCYB), 2014 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</strong><br />
+       Canyi Lu, <strong>Yunchao Wei</strong>, Zhouchen Lin, Shuicheng Yan  <br />
+       Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2014 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Learning a mid-level feature space for cross-media regularization</strong><br />
+       <strong>Yunchao Wei</strong>, Yao Zhao, Zhenfeng Zhu, Yanhui Xiao, Shikui Wei: <br />
+       IEEE International Conference on Multimedia and Expo (ICME), 2014 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<h4>
+	<a name='2013'></a> 2013 and Earlier
+</h4>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Class-Driven Non-Negative Matrix Factorization for Image Representation</strong><br />
+       Yanhui Xiao, Zhenfeng Zhu, Yao Zhao, <strong>Yunchao Wei</strong> <br />
+       Journal of Computer Science and Technology  (JCST), 2014 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
+
+<div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="assets/images/test.png" width="96px" height="96px"/>
+  </a>
+  <div class="media-body">
+    <p class="media-heading">
+      <strong>Knowledge Transferring for Image Classification</strong><br />
+       <strong>Yunchao Wei</strong>, Yao Zhao, Zhenfeng Zhu, Yanhui Xiao<br />
+       Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP), 2014 <br />
+      <a href="assets/pdf/Cross-Modal Retrieval With CNN Visual Features A New Baseline.pdf">[PDF]</a>
+      <a href="http://decaf.berkeleyvision.org/">[Project]</a>
+    </p>
+  </div>
+</div>
