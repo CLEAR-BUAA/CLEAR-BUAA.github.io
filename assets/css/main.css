@@ -19,3 +19,19 @@ li {list-style-type:none;}
 	margin:0 auto;
 	width: 75%;
 }
+.award ul li{
+	 list-style-type:disc;
+	 line-height:30px;
+}
+.photo{
+	float:left;
+	width:20%;
+	padding-top:10px;
+}
+.photo img{
+	width: 85%;
+}
+.introduction{
+	float:right;
+	width:80%;
+}
