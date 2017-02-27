@@ -1,3 +1,3 @@
 git add .
 git commit -m 'modify'
-git push origin gh-pages
+git push origin master
