@@ -1,12 +1,9 @@
 .container{ 
-  padding-left: 15px;
+  padding-left: 30px;
   padding-right: 15px;
-  width:960px; 
+  min-width: 1170px; 
   margin-right:auto;
   margin-left:auto;
-} 
-.row{ 
-  padding-left: 5px; 
 } 
 .logo-image { max-width:75%; height:auto; overflow:hidden;}
 
