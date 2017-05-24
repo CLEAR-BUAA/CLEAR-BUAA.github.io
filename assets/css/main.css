@@ -1,5 +1,6 @@
 body{
 	font-size:16px;
+	line-height:1.8;
 }
 
 .logo-image { max-width:75%; height:auto; overflow:hidden;}
@@ -43,7 +44,7 @@ li {list-style-type:none;}
 }
 .photo{
 	float:left;
-	width:18%;
+	width:100%;
 	padding-top:10px;
 }
 .photo img{
