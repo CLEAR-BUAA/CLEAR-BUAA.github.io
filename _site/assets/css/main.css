@@ -30,6 +30,10 @@ li {list-style-type:none;}
 .projectimg img{
 	width: 100%;
 }
+.researchInt ul li{
+	 list-style-type:disc;
+	 line-height:30px;
+}
 .award ul li{
 	 list-style-type:disc;
 	 line-height:30px;
