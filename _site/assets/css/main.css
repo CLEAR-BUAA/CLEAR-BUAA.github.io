@@ -30,6 +30,9 @@ li {list-style-type:none;}
 .projectimg img{
 	width: 100%;
 }
+.researchInt{
+	 padding-top: 10px;
+}
 .researchInt ul li{
 	 list-style-type:disc;
 	 line-height:30px;
