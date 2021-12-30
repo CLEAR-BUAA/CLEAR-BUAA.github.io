@@ -1,4 +1,336 @@
----
-layout: layout
----
-  
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yunchao Wei's homepage</title>
+    <!-- Custom Theme files -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content=""/>
+    <script type="application/x-javascript"> addEventListener("load", function () {
+        setTimeout(hideURLbar, 0);
+    }, false);
+
+    function hideURLbar() {
+        window.scrollTo(0, 1);
+    } </script>
+    <script>
+        const cof = 880 / 1792;
+
+        adaptiveHeight = function() {
+            const width = window.innerWidth;
+            const img = document.getElementById('cover');
+
+            img.style.minHeight = (cof * width).toString() + "px";
+        };
+
+        // adaptiveHeight();
+        // console.log("add resize");
+        window.addEventListener("load", function () {
+            adaptiveHeight();
+        })
+        window.addEventListener("resize", function () {
+            adaptiveHeight();
+        })
+    </script>
+    <!-- //Custom Theme files -->
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+    <link rel="stylesheet" href="css/lightbox.css">
+    <!-- js -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <!-- //js -->
+    <!--web-fonts-->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic'
+          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Dosis:400,200,300,500,600,700,800' rel='stylesheet'
+          type='text/css'>
+    <!--//web-fonts-->
+    <!--circle-chart-->
+    <script src="js/jquery.circlechart.js"></script>
+    <!--circle-chart-->
+</head>
+<body>
+
+<div class="">
+<!--header-->
+<!--header-->
+<div class="header header-contents">
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header navbar-left">
+                <h1><a href="index.html"><img style="width: 30rem" src="images/BJTU-LOGO2.png"/></a></h1>
+            </div>
+            <!--navigation-->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="header-right">
+                <div class="top-nav-text">
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li><a href="index.html" class="active">Home</a></li>
+                        <li><a href="publication.html" class="scroll">Publications</a></li>
+                        <li><a href="people.html" class="scroll">Members</a></li>
+                        <li><a href="seminar.html" class="scroll">Seminar</a></li>
+                        <li><a href="opening.html" class="scroll">Join Us</a></li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div><!--//navigation-->
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </nav>
+</div>
+
+<div class="banner background cover" id="cover">
+    <div class="container">
+          <!-- <div class="banner-text">
+                <div  id="top" class="callbacks_container">
+                    <ul class="rslides" id="slider3">
+                        <li>
+                            <div class="banner-text-info" >
+                                <h2>Welcome to Wei's Group</h2>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div> -->
+    </div>
+</div>
+
+<!-- <div class="album-li-pic banner">
+    <img src="./images/BJTU_0.jpg" alt="">
+</div> -->
+
+<script>
+    const cof = 880 / 1792;
+    const width = window.innerWidth;
+    const img = document.getElementById('cover');
+
+    img.style.minHeight = (cof * width).toString() + "px";
+</script>
+
+
+<!--research interests-->
+<div class="team" id="team">
+    <div class="team-info">
+        
+
+        <div class="container">
+            <div class="team-row center-row">
+                <div class="col-md-3 team-grids">
+                    <div class="team-img">
+                        <img class="teacher-img" src="images/people/wyc.jpg" alt="">
+                        <!-- <h4>Yunchao Wei</h4> -->
+                        <!-- <p>Professor</p> -->
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <h3>Yunchao Wei 魏云超</h3>
+                    <br>
+                    <p> 
+                        <!-- Professor<br/> -->
+                        Professor, <a href="http://mepro.bjtu.edu.cn/">Center of Digital Media Information Processing</a>
+                    <br>
+                    Institute of Information Science | Beijing Jiaotong University <br>
+
+                    <strong>Office:</strong> 1013-B08, Science & Technology Innovation Mansion of BJTU, Beijing 100044<br/>
+                    <strong>Email</strong>: yunchao.wei AT bjtu.edu.cn | wychao1987 AT gmail.com<br/>
+                    <strong>Prospective Students</strong> : <a href="opening.html">Content me</a>. <br>
+                    
+                    <a href="https://scholar.google.com.sg/citations?user=qL9Csv0AAAAJ&hl=en" target="_blank"><i
+                        class="fa fa-globe"></i> 
+                        <img src="./images/google_scholar.png" alt="" height="20px">
+                    </a>
+                    <a href="">
+                        <img src="./images/github.png" alt="" height="20px">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCX6tsirfrt2W3vnDbKIy2Zw/videos">
+                        <img src="./images/youtube.png" alt="" height="20px">
+                    </a>
+                    </p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <br>
+        <div class="container">
+            <h3 class="title">Research Interests</h3>
+
+            <div class="center-row" style="font-size: 16px;">
+
+                <p>
+                    My research interests include computer vision and machine learning. In particular I have recently worked in:
+                </p>
+
+                <ul id="interests">
+                    <li>
+                        Computer Vision: classification, object detection, segmentation, vision & language, etc.
+                    </li>
+                    <li>
+                        Machine Learning: unsupervised/weakly-supervised/semi-supervised learning, few-shot learning, domain adaptive learning, active learning, etc.
+                    </li>
+                </ul>
+                <p>
+                    More details can be found <a href="opening.html">here</a>. 
+                </p>
+
+            </div>
+        </div>
+
+        <!-- news -->
+        <div class="container">
+            <h3 class="title">News</h3>
+            <div class="history-tl-container">
+                <ul class="tl">
+                    <li class="tl-item" ng-repeat="item in retailer_history">
+
+                        <div class="item-title">[ 19th March 2020 3:00 PM ]</div>
+                        <div class="item-detail">I was awarded as one of the five top early-career researchers in
+                            Engineering and Computer Sciences in Australia by <a
+                                    href="https://specialreports.theaustralian.com.au/1540291/27">The Australian</a>.
+                        </div>
+                    </li>
+                    <li class="tl-item" ng-repeat="item in retailer_history">
+
+                        <div class="item-title">[ 19th March 2020 3:00 PM ]</div>
+                        <div class="item-detail">The slides of <a href="assets/pdf/Wiztalk-魏云超-20200728.pptx">Data-Efficient
+                            Image and Video Segmentation</a> at Tencent Wiztalk is avaliable now!
+                        </div>
+                    </li>
+                    <li class="tl-item" ng-repeat="item in retailer_history">
+
+                        <div class="item-title">[ 19th March 2020 3:00 PM ]</div>
+                        <div class="item-detail">We release <strong>University-1652</strong>, a multi-view multi-source
+                            benchmark for drone-based geo-localization <a
+                                    href="https://github.com/layumi/University1652-Baseline">[link]</a>.
+                        </div>
+                        <div class="item-title2">[ 19th March 2020 3:00 PM ]</div>
+                        <div class="item-detail">We release <strong>University-1652</strong>, a multi-view multi-source
+                            benchmark for drone-based geo-localization <a
+                                    href="https://github.com/layumi/University1652-Baseline">[link]</a>.
+                        </div>
+                    </li>
+                    <li class="tl-item" ng-repeat="item in retailer_history">
+
+                        <div class="item-title">[ 19th March 2020 3:00 PM ]</div>
+                        <div class="item-detail">We release <strong>Agriculture-Vision</strong>, the first large-scale
+                            aerial farmland image dataset for semantic segmentation of agricultural patterns <a
+                                    href="https://www.agriculture-vision.com/dataset">[link]</a>.
+                        </div>
+                    </li>
+
+                    <li class="tl-item" ng-repeat="item in retailer_history">
+
+                        <div class="item-title">[ 19th March 3:00 PM ]</div>
+                        <div class="item-detail">We organized the Real-world Recognition from Low-quality Inputs and 1st
+                            Tiny Object Detection Challenge workshop in ECCV 2020 <a href="https://rlq-tod.github.io/">[link]</a>
+                            <a href="https://www.youtube.com/playlist?list=PLPtQK8rJZ9HzU0ao9-Zdy-vmCc_Rw-9U8">[Youtube]</a>.
+                        </div>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+
+        <!-- awards -->
+        
+        <div class="container">
+            <h3 class="title">Selected Honors & Awards</h3>
+
+            <div class="center-row" style="font-size: 16px;">
+
+                <ul id="interests">
+                    <li>
+                        The 1st place of the video object segmentation track in CVPR Youtube VOS Challenge (2021)
+                    </li>
+                    <li>
+                        Early Career Researcher Award (Honorable Mention) by Australian Pattern Recognition Society (2020)
+                    </li>
+                    <li>
+                        Top 40 early-career researchers in Australia by The Australian (2020)
+                    </li>
+                    <li>
+                        The 2nd place of the video object segmentation track in CVPR DAVIS Challenge (2020)
+                    </li>
+                    <li>
+                        The 1st prize in science and technology awarded by China Society of Image and Graphics (2019)
+                    </li>
+                    <li>
+                        Early Career Researcher Award (DECRA) by Australian Research Council (2019)
+                    </li>
+                    <li>
+                        The 1st place of human parsing tracks in the 2nd CVPR Look Into Person Challenge (2018)
+                    </li>
+                    <li>
+                        The 2nd place of video object detection/tracking tracks in ImageNet Challenge (2017)
+                    </li>
+                    <li>
+                        Excellent Doctoral Dissertation Award of CIE (2016)
+                    </li>
+                    <li>
+                        The 1st place of object detection track in ImageNet Challenge (2014)
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--//map-->
+<!--footer-->
+<div class="footer header-contents">
+    <div class="container">
+        <div class="col-md-5 col-md-offset-2">
+            <p>Copyright &copy; 2021.Company name All rights reserved. </p>
+        </div>
+        <div class="col-md-3">
+            <script type="text/javascript"
+                    src="//rf.revolvermaps.com/0/0/4.js?i=2hlmeh3dic1&amp;m=0&amp;h=64&amp;c=ff0000&amp;r=0"
+                    async="async"></script>
+        </div>
+    </div>
+    <!--//footer-->
+    <!--banner Slider starts Here-->
+    <script src="js/responsiveslides.min.js"></script>
+    <script>
+        // You can also use "$(window).load(function() {"
+        $(function () {
+            // Slideshow 3
+            $("#slider3").responsiveSlides({
+                auto: true,
+                pager: true,
+                nav: false,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+    <!--//End-slider-script-->
+    <!-- start-smooth-scrolling-->
+    <script type="text/javascript" src="js/move-top.js"></script>
+    <script type="text/javascript" src="js/easing.js"></script>
+    <!--//smooth-scrolling-of-move-up-->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+    </div>
+</div>
+</body>
+</html>
