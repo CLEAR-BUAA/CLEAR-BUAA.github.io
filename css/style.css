@@ -1741,6 +1741,10 @@ ul.tl li .timestamp {
     margin: auto;
 }
 
+span.name {
+    color: #000;
+}
+
 /* 
 .album-li-pic{
 
