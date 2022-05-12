@@ -39,6 +39,10 @@ table {
         vertical-align: middle;
     }
 
+    table span {
+        color: #7f0000;
+    }
+
     table th {
         color: #646464;
         font-size: 0.9em;
