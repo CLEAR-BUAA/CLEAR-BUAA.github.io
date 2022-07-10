@@ -1745,6 +1745,16 @@ span.name {
     color: #000;
 }
 
+div.beginner-img-block {
+    display: flex; 
+    justify-content: space-around;
+    height: 280px;
+}
+
+div.beginner-img-block img {
+    width: 20%;
+}
+
 /* 
 .album-li-pic{
 
