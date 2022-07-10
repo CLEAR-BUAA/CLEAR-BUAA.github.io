@@ -1755,6 +1755,11 @@ div.beginner-img-block img {
     width: 20%;
 }
 
+h3.normal-margin {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
 /* 
 .album-li-pic{
 
